@@ -22,6 +22,8 @@ function executeQuery($conn, $query, $facet) {
     }
   } 
   return $resultTable;
+	
+	abc
 }
 
 ?>
